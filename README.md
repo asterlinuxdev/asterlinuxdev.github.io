@@ -1,3 +1,7 @@
+h1 {
+    text-align: center;
+    }
+
 ## Welcome to the AsterLinux Github Page
 
 <p style="text-align: center;">**Welcome to the AsterLinux Github Page**</p>
