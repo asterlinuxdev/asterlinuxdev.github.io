@@ -10,27 +10,18 @@ To clarify; this isn't a dig at Ubuntu, Linux Mint or even Zorin OS, there is no
 
 <h3 style="text-align: center;">The philosophy of the AsterLinux project</h3>
 
-AsterLinux is an all inclusive distribution that doesn't take sides; this boils down to giving users a "beautifully" themed and tweaked desktop that can be used by anyone.
+AsterLinux is an all inclusive distribution that doesn't take sides; this boils down to giving users a "beautifully" themed and tweaked xfce4 desktop that can be used by anyone in any way the user deems fit.
 
 New users will appreciate the layout and the many ui enhancements; and we haven't forgotten about terminal centric power users either. Both the desktop and terminal have received a makeover with enhanced functionality added to both.
 
-The goal is to give users both a beautifully themed gui driven
-
-a "beautifully" themed and tweaked desktop that can be used by anyone.
-
-One of 
-
-New users will feel at home with a familiar layout which
-
-New users will feel at home with a familiar layout that is aesthetically pleasing. We also have fully themed bash and zsh shells for terminal centric power s
-
-AsterLinux shares many of the goals of well establised "beginner friendly" distributions; some of these are listed below:
+<h3 style="text-align: center;">Some features of AsterLinux</h3>
 
 - Easy to use graphical installer
-- 
-- Light and user friendly
-- Eye candy without bloat
-- 
+- Fully functional without bloat
+- Performance and gaming tweaks
+- Eye candy with low resource usage
+- Stability and privacy enhancements
+
 
 
 - Printing, bluetooth, and networking support out of the box
