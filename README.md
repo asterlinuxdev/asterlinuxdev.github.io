@@ -2,11 +2,44 @@
 
 <h3 style="text-align: center;">Below you will find more info about the AsterLinux project</h3>
 
-AsterLinux is an Arch Linux based distribution that aims to cater for new and intermediate users. Although Arch Linux is popular in some circles, the relative complexity of installing and configuring Arch Linux the "arch way" is daunting for many.
+AsterLinux is an Arch Linux based distribution that aims to cater for new and intermediate users. Although Arch Linux is popular with enthusiasts, the relative complexity of installing and configuring Arch Linux the "arch way" is daunting for many.
 
-Arch Linux is also the gateway to cutting edge Linux development, and it's a shame so many people miss out due to misinformation and poor advice. Advice such as new users should stick to Ubuntu based distributions is echoed on many popular forums and social media.
+Arch Linux is also the gateway to cutting edge Linux development, and it's a shame so many people look elsewhere due to misinformation and poor advice. Advice such as new users should stick to Ubuntu based distributions is echoed on many popular forums and social media.
 
-To clarify; this isn't a dig at Ubuntu, Linux Mint or even Zorin OS, there is nothing inherently wrong with any of those distributions. They all serve as a great first introduction to the world of GNU/Linux.
+To clarify; this isn't a dig at Ubuntu, Linux Mint or even Zorin OS, there is nothing inherently wrong with any of those distributions. They all serve as a great introduction to the world of GNU/Linux.
+
+<h3 style="text-align: center;">The philosophy of the AsterLinux project</h3>
+
+AsterLinux is an all inclusive distribution that doesn't take sides; this boils down to giving users a "beautifully" themed and tweaked desktop that can be used by anyone.
+
+New users will appreciate the layout and the many ui enhancements; and we haven't forgotten about terminal centric power users either. Both the desktop and terminal have received a makeover with enhanced functionality added to both.
+
+The goal is to give users both a beautifully themed gui driven
+
+a "beautifully" themed and tweaked desktop that can be used by anyone.
+
+One of 
+
+New users will feel at home with a familiar layout which
+
+New users will feel at home with a familiar layout that is aesthetically pleasing. We also have fully themed bash and zsh shells for terminal centric power s
+
+AsterLinux shares many of the goals of well establised "beginner friendly" distributions; some of these are listed below:
+
+- Easy to use graphical installer
+- 
+- Light and user friendly
+- Eye candy without bloat
+- 
+
+
+- Printing, bluetooth, and networking support out of the box
+- Yay AUR helper, Pamac Manager and Flatpak support
+2. 
+
+<h3 style="text-align: center;">AsterLinux is based on Arch and built with heart</h3>
+
+The AsterLinux project aims to bridge the gap
 
 many users are scared off due to the relative complexity of installing Arch Linux the "arch way".
 
