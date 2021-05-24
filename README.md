@@ -6,9 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## The ISO files are hosted on SourceForge:
 
-<a href="http://www.something.com"> SourceForge </a>
+## The latest ISO is hosted on <a href="http://www.something.com"> SourceForge </a>
 
-## Support is available on our Discord server:
+## Support is available on our <a href="http://www.something.com"> Discord </a> server
 
 <a href="http://www.something.com"> SourceForge </a>
 
