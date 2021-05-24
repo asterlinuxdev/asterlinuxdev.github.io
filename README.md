@@ -21,12 +21,21 @@ New users will appreciate the layout and the many ui enhancements; and we haven'
 - Performance and gaming tweaks
 - Eye candy with low resource usage
 - Stability and privacy enhancements
+- Audio enhancements with Ladspa equalizer
 
+<h3 style="text-align: center;">AsterLinux out of the box support</h3>
 
+1. Printing, bluetooth and networking
+2. Yay, Pamac Manager and Flatpak
+3. Themed Bash shell with bash-completions
+4. Themed ZSH shell with history, syntax and completions
+5. Shell aliases for many repetitive commands
+6. Custom GUI apps for reflector and ad blocking
+7. Themed and enhanced Chromium browser
+8. Hooks and tweaks to improve system stability
+9. Gamehub with game mode and proton tweaks
+10. Uniform* look and feel for QT and Kvantum (*as uniform as possible)
 
-- Printing, bluetooth, and networking support out of the box
-- Yay AUR helper, Pamac Manager and Flatpak support
-2. 
 
 <h3 style="text-align: center;">AsterLinux is based on Arch and built with heart</h3>
 
