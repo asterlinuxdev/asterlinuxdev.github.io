@@ -1,10 +1,8 @@
-h1 {
-    text-align: center;
-    }
-
 ## Welcome to the AsterLinux Github Page
 
-<p style="text-align: center;">**Welcome to the AsterLinux Github Page**</p>
+### 
+
+<h2 style="text-align: center;">**Welcome to the AsterLinux Github Page**</h2>
 
 AsterLinux is an Arch Linux based distribution that aims to cater for new and intermediate users. Although Arch Linux is popular in some circles, the relative complexity of installing and configuring Arch Linux the "arch way" is daunting for many.
 
