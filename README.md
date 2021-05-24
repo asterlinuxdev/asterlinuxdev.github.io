@@ -1,10 +1,14 @@
 ## Welcome to the AsterLinux Github Page
 
-You can use the [editor on GitHub](https://github.com/asterlinuxdev/asterlinuxdev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+AsterLinux is an Arch Linux based distribution that aims to cater for new and intermediate users. Although Arch Linux is popular in some circles, the relative complexity of installing and configuring Arch Linux the "arch way" is daunting for many.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Arch Linux is also the gateway to cutting edge Linux development, and it's a shame so many people miss out due to misinformation and poor advice. Advice such as new users should stick to Ubuntu/Debian based distros is echoed on many popular forums and social media.
 
-## The ISO files are hosted on SourceForge:
+To clarify; this isn't a dig at Ubuntu, Debian or even Linux Mint, there is nothing inherently wrong with any of those distrobutions. 
+
+many users are scared off due to the relative complexity of installing Arch Linux the "arch way".
+
+Arch Linux is the gateway to cutting edge Linux development and it's a shame many people never get to experi
 
 ## The latest ISO is hosted on <a href="http://www.something.com"> SourceForge </a>
 
@@ -14,9 +18,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+You can use the [editor on GitHub](https://github.com/asterlinuxdev/asterlinuxdev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
 
 ```markdown
 Syntax highlighted code block
