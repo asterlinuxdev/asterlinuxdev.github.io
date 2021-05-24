@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <a href="http://www.something.com"> SourceForge </a>
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Markdown
 
@@ -32,8 +32,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
