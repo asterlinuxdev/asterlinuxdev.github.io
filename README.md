@@ -1,10 +1,6 @@
-## Welcome to the AsterLinux Github Page
-
-### 
-
 <h2 style="text-align: center;">Welcome to the AsterLinux Github Page</h2>
 
-<h3 style="text-align: center;">Below you will find more info about the AsterLinux project and where to download the ISO files</h3>
+<h3 style="text-align: center;">Below you will find more info about the AsterLinux project</h3>
 
 AsterLinux is an Arch Linux based distribution that aims to cater for new and intermediate users. Although Arch Linux is popular in some circles, the relative complexity of installing and configuring Arch Linux the "arch way" is daunting for many.
 
