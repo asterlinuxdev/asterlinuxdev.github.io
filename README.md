@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="200" src="https://asterlinuxdev.github.io/images/asterlinux-logo.svg" alt="AsterLinux Logo">
+</p>
+
 <h2 style="text-align: center;">Welcome to the AsterLinux Github Page</h2>
 
 <h3 style="text-align: center;">Below you will find more info about the AsterLinux project</h3>
