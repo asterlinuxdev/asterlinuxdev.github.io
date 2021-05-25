@@ -37,7 +37,10 @@ New users will appreciate the layout and the many ui enhancements; and we haven'
 10. Uniform* look and feel for QT and Kvantum (*as uniform as possible)
 
 
-![Image of asterlinux-logo](asterlinuxdev.github.io/images/asterlinux-logo.svg)
+![Image of asterlinux-logo](https://asterlinuxdev.github.io/images/asterlinux-desktop.png)
+
+![Image of asterlinux-logo](https://asterlinuxdev.github.io/images/asterlinux-logo.svg)
+
 
 
 
