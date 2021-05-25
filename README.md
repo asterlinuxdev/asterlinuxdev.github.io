@@ -37,6 +37,10 @@ New users will appreciate the layout and the many ui enhancements; and we haven'
 10. Uniform* look and feel for QT and Kvantum (*as uniform as possible)
 
 
+![Image of asterlinux-logo](asterlinuxdev.github.io/images/asterlinux-logo.svg)
+
+
+
 <h3 style="text-align: center;">AsterLinux is based on Arch and built with heart</h3>
 
 The AsterLinux project aims to bridge the gap
