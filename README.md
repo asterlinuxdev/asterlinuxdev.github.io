@@ -5,17 +5,15 @@
 
 <h3 style="text-align: center;">Below you will find more info about the AsterLinux project</h3>
 
-**If you prefer you can skip this rant section and find some screenshots and download links below
-
 AsterLinux is an Arch Linux based distribution that aims to cater for new and intermediate users. Although Arch Linux is popular with enthusiasts, the relative complexity of installing and configuring Arch Linux the "arch way" is daunting for many.
 
 Arch Linux is also the gateway to cutting edge Linux development, and it's a shame so many people look elsewhere due to misinformation and poor advice.
 
 Advice such as new users should stick to Ubuntu based distributions is echoed in a sheeple manner on many popular forums and social media. 
 
-To clarify; this isn't a dig at Ubuntu, Linux Mint or even Zorin OS. There is nothing inherently wrong with any of them, in fact they all serve as a great introduction to the world of GNU/Linux.
+To clarify; this isn't a dig at Ubuntu, Linux Mint or even Zorin OS. There is nothing inherently wrong with any of them, indeed they all serve as a great introduction to the world of GNU/Linux.
 
-However most of the advice found online is based on hearsay and stands without merit. Arch is a stable base and with the right Arch Linux based distribution, some tweaks and a little common sense, is just as easy to use as any "beginner friendly" distribution.
+However most of the advice found online is based on hearsay and stands without merit. In fact Arch Linux is a stable base and with the right Arch based distro, some tweaks and a little common sense, is just as easy to use as any "beginner friendly" distribution.
 
 <h3 style="text-align: center;">The philosophy of the AsterLinux project</h3>
 
