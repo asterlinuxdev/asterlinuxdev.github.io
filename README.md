@@ -27,7 +27,7 @@ New users will appreciate the layout and the many ui enhancements; and we haven'
 - Fully functional without bloat
 - Performance and gaming tweaks
 - Audio enhancements with Ladspa
-- Eye candy with low resource usage
+- Pleasant UI with low resource usage
 - Custom lock screen and kb bindings
 - Stability and privacy enhancements
 - Nvidia driver support for live usb
@@ -35,7 +35,7 @@ New users will appreciate the layout and the many ui enhancements; and we haven'
 <h3 style="text-align: center;">AsterLinux Out of the Box</h3>
 
 - Printing, bluetooth and networking
-- Yay aur, Pamac Manager and Flatpak
+- Yay AUR, Pamac Manager and Flatpak
 - Themed Bash shell with bash-completions
 - Themed ZSH shell with popular plugins
 - Shell aliases for many repetitive commands
@@ -44,7 +44,7 @@ New users will appreciate the layout and the many ui enhancements; and we haven'
 - Themed and security enhanced Chromium browser
 - Hooks and tweaks to improve system stability
 - Gamehub with game mode and proton tweaks
-- Uniform* look and feel for QT and Kvantum
+- Uniform look and feel for QT and Kvantum (as uniform as possible)
 
 <h3 style="text-align: center;">AsterLinux Release Cycle</h3>
 
