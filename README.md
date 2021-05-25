@@ -46,6 +46,3 @@ New users will appreciate the layout and the many ui enhancements; and we haven'
 ![Image of asterlinux-desktop](https://asterlinuxdev.github.io/images/asterlinux-desktop.png)
 
 ![Image of asterlinux-terminal](https://asterlinuxdev.github.io/images/asterlinux-terminal.png)
-
-![Image of asterlinux-logo](https://asterlinuxdev.github.io/images/asterlinux-logo.svg)
-
