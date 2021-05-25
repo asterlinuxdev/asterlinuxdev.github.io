@@ -26,22 +26,37 @@ New users will appreciate the layout and the many ui enhancements; and we haven'
 - Easy to use graphical installer
 - Fully functional without bloat
 - Performance and gaming tweaks
+- Audio enhancements with Ladspa
 - Eye candy with low resource usage
+- Custom lock screen and kb bindings
 - Stability and privacy enhancements
-- Audio enhancements with Ladspa equalizer
+- Nvidia driver support for live usb
 
 <h3 style="text-align: center;">AsterLinux Out of the Box</h3>
 
 - Printing, bluetooth and networking
-- Yay, Pamac Manager and Flatpak
+- Yay aur, Pamac Manager and Flatpak
 - Themed Bash shell with bash-completions
 - Themed ZSH shell with popular plugins
 - Shell aliases for many repetitive commands
 - Custom GUI apps for reflector and security
+- Auto laptop detection and power saving
 - Themed and security enhanced Chromium browser
 - Hooks and tweaks to improve system stability
 - Gamehub with game mode and proton tweaks
 - Uniform* look and feel for QT and Kvantum
+
+<h3 style="text-align: center;">AsterLinux Release Cycle</h3>
+
+The current AsterLinux release is FX1 (Flagship XFCE4 Release 1)
+
+The release number (1) won't change with minor updates or monthly rollups to accomodate new updates
+
+The iso build date will change with each incremental rollup release
+
+You can check the iso build date by typing 'iso' into a terminal (see screenshot below)
+
+Changelog for minor and major releases will be available here and on SourceForge.
 
 <h3 style="text-align: center;">AsterLinux Screenshots</h3>
 
