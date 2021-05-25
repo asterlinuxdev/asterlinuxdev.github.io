@@ -30,16 +30,16 @@ New users will appreciate the layout and the many ui enhancements; and we haven'
 
 <h3 style="text-align: center;">AsterLinux Out of the Box</h3>
 
-1. Printing, bluetooth and networking
-2. Yay, Pamac Manager and Flatpak
-3. Themed Bash shell with bash-completions
-4. Themed ZSH shell with history, syntax and completions
-5. Shell aliases for many repetitive commands
-6. Custom GUI apps for reflector and ad blocking
-7. Themed and enhanced Chromium browser
-8. Hooks and tweaks to improve system stability
-9. Gamehub with game mode and proton tweaks
-10. Uniform* look and feel for QT and Kvantum (*as uniform as possible)
+- Printing, bluetooth and networking
+- Yay, Pamac Manager and Flatpak
+- Themed Bash shell with bash-completions
+- Themed ZSH shell with popular plugins
+- Shell aliases for many repetitive commands
+- Custom GUI apps for reflector and security
+- Themed and security enhanced Chromium browser
+- Hooks and tweaks to improve system stability
+- Gamehub with game mode and proton tweaks
+- Uniform* look and feel for QT and Kvantum
 
 <h3 style="text-align: center;">AsterLinux Screenshots</h3>
 
