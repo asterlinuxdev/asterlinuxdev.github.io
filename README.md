@@ -5,7 +5,7 @@
 
 <h3 style="text-align: center;">Below you will find more info about the AsterLinux project</h3>
 
-** If you prefer you can skip this rant section and find some screenshots and download links below.
+**If you prefer you can skip this rant section and find some screenshots and download links below
 
 AsterLinux is an Arch Linux based distribution that aims to cater for new and intermediate users. Although Arch Linux is popular with enthusiasts, the relative complexity of installing and configuring Arch Linux the "arch way" is daunting for many.
 
