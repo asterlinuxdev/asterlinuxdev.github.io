@@ -89,4 +89,3 @@ Changelog for minor and major releases will be available here and on SourceForge
 </p><p align="center">
   <img width="720" src="https://asterlinuxdev.github.io/images/asterlinux-bios.png" alt="AsterLinux BIOS Boot">
 </p>
-
