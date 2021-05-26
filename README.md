@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="32%" src="https://i.stack.imgur.com/RJj4x.png">
+    <img width="32%" <a href="https://google.com" title="About Me">About Me</a> src="https://i.stack.imgur.com/RJj4x.png">
     <img width="32%" src="https://i.stack.imgur.com/RJj4x.png">
     <img width="32%" src="https://i.stack.imgur.com/RJj4x.png">
 </p>
