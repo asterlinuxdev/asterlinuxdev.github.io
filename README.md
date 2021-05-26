@@ -1,6 +1,7 @@
 <p align="center">
   <img width="200" src="https://asterlinuxdev.github.io/images/asterlinux-logo.svg" alt="AsterLinux Logo">
 </p>
+
 <h2 style="text-align: center;">Welcome to the AsterLinux Github Page</h2>
 
 <h3 style="text-align: center;">Below you will find more info about the AsterLinux project</h3>
@@ -60,10 +61,18 @@ Changelog for minor and major releases will be available here and on SourceForge
 
 <h3 style="text-align: center;">AsterLinux Screenshots</h3>
 
-![Image of asterlinux-desktop](https://asterlinuxdev.github.io/images/asterlinux-desktop.png)
+<p align="center">
+  <img width="720" src="https://asterlinuxdev.github.io/images/asterlinux-desktop.png" alt="AsterLinux Desktop">
+</p>
 
-![Image of asterlinux-terminal](https://asterlinuxdev.github.io/images/asterlinux-terminal.png)
+<p align="center">
+  <img width="720" src="https://asterlinuxdev.github.io/images/asterlinux-terminal.png" alt="AsterLinux Terminal">
+</p>
 
 <p align="center">
   <img width="720" src="https://asterlinuxdev.github.io/images/asterlinux-settings.png" alt="AsterLinux Settings">
+</p>
+
+<p align="center">
+  <img width="720" src="https://asterlinuxdev.github.io/images/asterlinux-gamemode.png" alt="AsterLinux Gamemode">
 </p>
