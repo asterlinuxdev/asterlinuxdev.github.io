@@ -1,13 +1,10 @@
-| ![Image](img.png) |
-| :--: |
-
 <p align="center">
   <img width="200" src="https://asterlinuxdev.github.io/images/asterlinux-logo.svg" alt="AsterLinux Logo">
 </p>
 
-<h2 style="text-align: center;">Welcome to the AsterLinux Github Page</h2>
+<h1 style="text-align: center;">Welcome to the AsterLinux Github Page</h1>
 
-<h3 style="text-align: center;">Below you will find more info about the AsterLinux project</h3>
+<h2 style="text-align: center;">Below you will find more info about the AsterLinux project</h2>
 
 AsterLinux is an Arch Linux based distribution that aims to cater for new and intermediate users. Although Arch Linux is popular with enthusiasts, the relative complexity of installing and configuring Arch Linux the "arch way" is daunting for many.
 
