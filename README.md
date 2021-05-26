@@ -1,4 +1,4 @@
-| ![Image](https://asterlinuxdev.github.io/images/asterlinux-logo.svg) |
+| ![Image](img.png) |
 | :--: |
 
 <p align="center">
