@@ -20,7 +20,7 @@ However most of the advice found online is based on hearsay and stands without m
 
 AsterLinux is an all inclusive distribution that doesn't take sides; this boils down to giving users a "beautifully" themed and tweaked xfce4 desktop that can be used by anyone in any way the user deems fit.
 
-New users will appreciate the layout and the many ui enhancements; and we haven't forgotten about terminal centric power users either. Both the desktop and terminal have received a makeover with enhanced functionality added to both.
+New users will appreciate the layout and the many UI enhancements; and we haven't forgotten about terminal centric power users either. Both the desktop and terminal have received a makeover with enhanced functionality added to both.
 
 <h3 style="text-align: center;">Some Features of AsterLinux</h3>
 
@@ -29,7 +29,7 @@ New users will appreciate the layout and the many ui enhancements; and we haven'
 - Performance and gaming tweaks
 - Audio enhancements with Ladspa
 - Pleasant UI with low resource usage
-- Custom lock screen and kb bindings
+- Custom lock screen and KB bindings
 - Stability and privacy enhancements
 - Nvidia driver support for live usb
 
@@ -51,7 +51,7 @@ New users will appreciate the layout and the many ui enhancements; and we haven'
 
 The current AsterLinux release is FX1 (Flagship XFCE4 Release 1)
 
-The release number (1) won't change with minor updates or monthly rollups to accomodate new updates
+The release number (1) won't change with minor updates or monthly rollups to accommodate new updates
 
 The iso build date will change with each incremental rollup release
 
