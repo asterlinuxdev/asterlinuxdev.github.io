@@ -1,10 +1,5 @@
-<p align="center" width="100%">
-    <img width="32%" <a href="https://google.com"</a> src="https://asterlinuxdev.github.io/images/asterlinux-logo.svg">
-    <img width="32%" src="https://i.stack.imgur.com/RJj4x.png">
-    <img width="32%" src="https://i.stack.imgur.com/RJj4x.png">
-</p>
-
-[<img width="200" src="https://asterlinuxdev.github.io/images/asterlinux-logo.svg" alt="AsterLinux Logo">](https://google.com)
+| ![Image](asterlinux-logo.svg) |
+| :--: |
 
 <p align="center">
   <img width="200" src="https://asterlinuxdev.github.io/images/asterlinux-logo.svg" alt="AsterLinux Logo">
