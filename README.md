@@ -24,8 +24,6 @@ New users will appreciate the layout and the many ui enhancements; and we haven'
 
 <h3 style="text-align: center;">Some Features of AsterLinux</h3>
 
-**Right click and open in new tab for full 1080p resolution**
-
 - Easy to use graphical installer
 - Fully functional without bloat
 - Performance and gaming tweaks
@@ -62,6 +60,8 @@ You can check the iso build date by typing 'iso' into a terminal (see screenshot
 Changelog for minor and major releases will be available here and on SourceForge.
 
 <h3 style="text-align: center;">AsterLinux Screenshots</h3>
+
+**Right click and open in new tab for full 1080p resolution**
 
 <p align="center">
   <img width="720" src="https://asterlinuxdev.github.io/images/asterlinux-desktop.png" alt="AsterLinux Desktop">
