@@ -65,5 +65,5 @@ Changelog for minor and major releases will be available here and on SourceForge
 ![Image of asterlinux-terminal](https://asterlinuxdev.github.io/images/asterlinux-terminal.png)
 
 <p align="center">
-  <img width="540" src="https://asterlinuxdev.github.io/images/asterlinux-settings.png" alt="AsterLinux Settings">
+  <img width="720" src="https://asterlinuxdev.github.io/images/asterlinux-settings.png" alt="AsterLinux Settings">
 </p>
