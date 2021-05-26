@@ -1,4 +1,6 @@
-[<img width="200" alt="asterlinux logo" class="center" src="https://asterlinuxdev.github.io/images/asterlinux-logo.svg">](https://google.com)
+<p align="center">
+[<img width="200" src="https://asterlinuxdev.github.io/images/asterlinux-logo.svg">]<(https://google.com)>
+</p>
 
 <p align="center">
   <img width="200" src="https://asterlinuxdev.github.io/images/asterlinux-logo.svg" alt="AsterLinux Logo">
