@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" src="https://asterlinuxdev.github.io/images/asterlinux-logo.svg" (https://google.com)>
+[<img width="200" src="https://asterlinuxdev.github.io/images/asterlinux-logo.svg" (https://google.com)]
 </p>
 
 <p align="center">
