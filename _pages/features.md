@@ -5,7 +5,7 @@ permalink: /features/
 ---
 
 
-<h1 style="text-align: center;">Some Features of AsterLinux</h1>
+## Some Features of AsterLinux
 
 - Easy to use graphical installer
 - Fully functional without bloat
@@ -16,7 +16,7 @@ permalink: /features/
 - Stability and privacy enhancements
 - Nvidia live installer driver support
 
-<h2 style="text-align: center;">AsterLinux Out of the Box</h2>
+## AsterLinux Out of the Box
 
 - Printing, bluetooth and networking
 - Yay AUR, Pamac Manager and Flatpak
@@ -29,3 +29,5 @@ permalink: /features/
 - Hooks and tweaks to improve system stability
 - Gamehub with game mode and proton tweaks
 - Uniform look and feel for QT and Kvantum (as uniform as possible)
+
+**Click to view the [screenshots](https://asterlinuxdev.github.io/media)**
