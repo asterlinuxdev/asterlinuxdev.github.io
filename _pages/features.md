@@ -28,6 +28,12 @@ permalink: /features/
 - Themed and security enhanced Chromium browser
 - Hooks and tweaks to improve system stability
 - Gamehub with game mode and proton tweaks
-- Uniform look and feel for QT and Kvantum (as uniform as possible)
+- Uniform look and feel for QT and Kvantum
 
-**Click to view the [screenshots](https://asterlinuxdev.github.io/media)**
+**View the [screenshots](https://asterlinuxdev.github.io/media)**
+
+**Learn about the AsterLinux [project](https://asterlinuxdev.github.io/about)**
+
+**Release info and download [links](https://asterlinuxdev.github.io/download)**
+
+**Support the AsterLinux project with a [donation](https://asterlinuxdev.github.io/donate)**
