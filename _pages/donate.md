@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Support
-permalink: /support/
+title: Donate
+permalink: /donate/
 ---
 
 

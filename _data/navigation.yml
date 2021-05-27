@@ -9,5 +9,5 @@ main:
     url: /media/
   - title: "Downloads"
     url: /downloads/
-  - title: "Support"
-    url: /support/
+  - title: "Donate"
+    url: /donate/
