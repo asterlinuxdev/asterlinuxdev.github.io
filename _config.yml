@@ -37,7 +37,7 @@ footer:
 
 # reading files
 include:
-  - _pages
+  - ["_pages"]
 
 exclude: [vendor]
 
