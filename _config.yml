@@ -4,3 +4,5 @@ minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-include-cache
   - jekyll-feed
+
+  logo: "/assets/images/asterlinux-logo1.png"
