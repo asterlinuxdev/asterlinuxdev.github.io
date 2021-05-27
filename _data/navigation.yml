@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Features"
+    url: /features/
+  - title: "Screenshots"
+    url: /screenshots/
+  - title: "Downloads"
+    url: /downloads/
+  - title: "Support"
+    url: /support/
