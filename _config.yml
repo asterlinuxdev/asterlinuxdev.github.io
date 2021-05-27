@@ -9,15 +9,17 @@ subtitle: AsterLinux Github
 name: Aster Linux
 url: "https://asterlinuxdev.github.io"
 repository: "asterlinuxdev/asterlinuxdev.github.io"
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
+
+logo: "/assets/images/aster-logo.png"
 
 # Site Author
 author:
   name: "Aster Linux"
   avatar: "/assets/images/aster-logo.png"
-  bio: "A Pinoy Software Engineer who wants to learn and share stuff"
-  location: "Philippines"
+  bio: "Home of the AsterLinux Project"
+  location: "United Kingdom"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
