@@ -1,17 +1,12 @@
-remote_theme: "mmistakes/minimal-mistakes@4.23.0"
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.16.5"
 minimal_mistakes_skin: "dark"
 
-plugins:
-  - jekyll-include-cache
-  - jekyll-remote-theme
-
-  logo: "/assets/images/asterlinux-logo1.png"
-
-  # Site Settings
-title: AsterLinux Github
-description: Home of the AsterLinux Project
-subtitle: AsterLinux Development Github
-name: AsterLinux Github Repository
+# Site Settings
+title: AsterLinux
+description: AsterLinux Project Development
+subtitle: AsterLinux Github
+name: Aster Linux
 url: "https://asterlinuxdev.github.io"
 repository: "asterlinuxdev/asterlinuxdev.github.io"
 paginate: 5 # amount of posts to show
@@ -19,10 +14,10 @@ paginate_path: /page:num/
 
 # Site Author
 author:
-  name: "AsterLinux"
-  avatar: "/assets/images/asterlinux-logo1.png"
-  bio: "Home of the AsterLinux Project"
-  location: "United Kingdom"
+  name: "Aster Linux"
+  avatar: "/assets/images/aster-logo.png"
+  bio: "A Pinoy Software Engineer who wants to learn and share stuff"
+  location: "Philippines"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -37,9 +32,13 @@ footer:
 
 # reading files
 include:
-  - ["_pages"]
+  - _pages
 
 exclude: [vendor]
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
 
 # defaults
 defaults:
@@ -50,3 +49,27 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: project
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+collections:
+  project:
+    output: true
+    permalink: /:collection/:path/

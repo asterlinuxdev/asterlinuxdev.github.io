@@ -5,8 +5,8 @@ main:
     url: /about/
   - title: "Features"
     url: /features/
-  - title: "Screenshots"
-    url: /screenshots/
+  - title: "Media"
+    url: /media/
   - title: "Downloads"
     url: /downloads/
   - title: "Support"

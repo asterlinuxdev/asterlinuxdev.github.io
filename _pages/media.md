@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Downloads
-permalink: /downloads/
+title: Media
+permalink: /media/
 ---
 
 
