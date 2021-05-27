@@ -12,12 +12,12 @@ repository: "asterlinuxdev/asterlinuxdev.github.io"
 #paginate: 5 # amount of posts to show
 #paginate_path: /page:num/
 
-logo: "/assets/images/aster-logo.png"
+#logo: "/assets/images/aster-logo.png"
 
 # Site Author
 author:
   name: "Aster Linux"
-  avatar: "/assets/images/aster-logo.png"
+  avatar: "/assets/images/aster-logo256.png"
   bio: "Home of the AsterLinux Project"
   location: "United Kingdom"
   links:
