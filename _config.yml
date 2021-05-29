@@ -27,9 +27,6 @@ author:
     - label: "SourceForge"
       icon: "fab fa-fw fa-sourcetree"
       url: "https://sourceforge.net/projects/asterlinux"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/asterlinux"
 
 # Site Footer
 footer:
