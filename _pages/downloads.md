@@ -21,4 +21,20 @@ Changelog for minor and major releases will be available here and on SourceForge
 
 ## AsterLinux Downloads
 
-You can download the latest version of AsterLinux at the project homepage on [SourceForge](https://sourceforge.net/projects/asterlinux/)
+You can download the latest version of AsterLinux at the project homepage on [SourceForge](https://sourceforge.net/projects/asterlinux/files/)
+
+## AsterLinux Support
+
+For support and reporting bugs please open a [ticket](https://sourceforge.net/p/asterlinux/tickets/)
+
+**A Discord server for general discussion and support will be available soon**
+
+## Discover AsterLinux
+
+**View the [screenshots](https://asterlinuxdev.github.io/media)**
+
+**Learn about the AsterLinux [project](https://asterlinuxdev.github.io/about)**
+
+**Learn about the features of [AsterLinux](https://asterlinuxdev.github.io/features)**
+
+**Support the AsterLinux project with a [donation](https://asterlinuxdev.github.io/donate)**
