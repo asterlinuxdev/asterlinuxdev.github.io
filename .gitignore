@@ -4,3 +4,7 @@ gitup.sh
 gitup.sh*
 cibuild
 cibuild*
+setup-git-v5
+setup-git*
+setup-git-v5.sh
+setup-git-v5.sh*
