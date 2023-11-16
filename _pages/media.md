@@ -29,6 +29,6 @@ permalink: /media/
 
 **Learn about the AsterLinux [project](https://asterlinuxdev.github.io/about)**
 
-**Release info and download [links](https://asterlinuxdev.github.io/download)**
+**Release info and download [links](https://asterlinuxdev.github.io/downloads)**
 
 **Support the AsterLinux project with a [donation](https://asterlinuxdev.github.io/donate)**
